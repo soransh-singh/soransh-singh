@@ -43,6 +43,6 @@ I am good at sketching and character design I love to draw using pencil and digi
 ### Statistics ⭐ 
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soransh-singh&show_icons=true&layout=compact&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soransh-singh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soransh-singh&theme=tokyonight" />
 </p> 
