@@ -2,11 +2,10 @@
 
 # Hello I am Soransh👋
 
-University of Delhi student and pursuing BSc in computer science. I am enthusiastic about programming and know **javascript** and **front-end development** tools. I fall in love with coding with C++ in my school. since then I have learned a lot of different languages like Java and Python and also made some 2D games in Lua and godot. I am enthusiastic about learning new skills and mastering them.
+I am enthusiastic about programming and know **javascript** and **front-end development**. I fall in love with coding with C++ in my school. since then I have learned a lot of different languages like Java and Python and also made some 2D games in Lua and godot. I am enthusiastic about learning new skills and mastering them.
  
 Other than programming, I love reading novels and books in general. I am fond of *Murakami* and recently read Milan Kundera's *"The Eternal Lightness of Being"* and fall in love with his writing. Other than that I love *Stephen King* and have a special place in my heart for *George Orwell*. I can talk about books and authors for millions of years.
 
-I am good at sketching and character design I love to draw using pencil and digital. I am fond of sketching as it calms me.
 
 
 ## My Skills 💻 
