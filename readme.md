@@ -43,5 +43,5 @@ Other than programming, I love reading novels and books in general. I am fond of
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soransh-singh&show_icons=true&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soransh-singh&show_icons=true&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soransh-singh&show_icons=true&theme=tokyonight" /> -->
 </p> 
